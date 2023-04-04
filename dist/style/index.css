@@ -1,0 +1,7 @@
+.wrap {
+  color: #ff0000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #000000;
+}
