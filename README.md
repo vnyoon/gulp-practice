@@ -1,4 +1,6 @@
 ## 五、前端流程化控制工具gulp的使用
+  * 随着前端诸如webpack，rollup，vite的发展，gulp感觉似乎好像被取代了。
+    - 其实并没有，只不过它从台前退居到了幕后。我们仍然可以在很多项目中看到它的身影，比如elementplus、vant等；
   * gulp现在更多的是做流程化的控制：
     - 比如我们要把一个大象放进冰箱里就需要 打开冰箱门->把大象放进冰箱->关上冰箱门；
     - 这就是一个简单的流程，使用gulp就可以规定这些流程，将这个流程自动化；
@@ -191,3 +193,5 @@
       background-color: #000000;
     }
     ```
+
+## [使用 gulp 打包组件库并实现按需加载](https://github.com/one-season/hope 'https://github.com/one-season/hope')
